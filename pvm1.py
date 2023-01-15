@@ -1,1 +1,1 @@
-print("hello from 1st commit")
+print("sum is=",2+5)
